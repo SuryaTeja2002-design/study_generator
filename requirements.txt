@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+langgraph
+pandas
+python-dotenv
+pytest
+faiss-cpu
+pypdf
+
+
